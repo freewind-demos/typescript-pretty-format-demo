@@ -4,7 +4,11 @@
   },
   "devDependencies": {
     "@types/node": "13.7.7",
+    "@types/pretty-format": "24.3.0",
     "ts-node": "8.6.2",
     "typescript": "3.8.3"
+  },
+  "dependencies": {
+    "pretty-format": "26.6.2"
   }
 }
